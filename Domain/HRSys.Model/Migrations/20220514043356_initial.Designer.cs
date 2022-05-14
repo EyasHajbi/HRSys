@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace HRSys.Model.Migrations
 {
     [DbContext(typeof(HRSysContext))]
-    [Migration("20220502001935_HR_Sys_Migrations")]
-    partial class HR_Sys_Migrations
+    [Migration("20220514043356_initial")]
+    partial class initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

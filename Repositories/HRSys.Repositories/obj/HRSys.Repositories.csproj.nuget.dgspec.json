@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\projects\\HRSys\\Repositories\\HRSys.Repositories\\HRSys.Repositories.csproj": {}
+    "C:\\Users\\User\\Source\\Repos\\HRSys\\Repositories\\HRSys.Repositories\\HRSys.Repositories.csproj": {}
   },
   "projects": {
-    "D:\\projects\\HRSys\\Domain\\HRSys.DTO\\HRSys.DTO.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\HRSys\\Domain\\HRSys.DTO\\HRSys.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\HRSys\\Domain\\HRSys.DTO\\HRSys.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\HRSys\\Domain\\HRSys.DTO\\HRSys.DTO.csproj",
         "projectName": "HRSys.DTO",
-        "projectPath": "D:\\projects\\HRSys\\Domain\\HRSys.DTO\\HRSys.DTO.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\HRSys\\Domain\\HRSys.DTO\\obj\\",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\HRSys\\Domain\\HRSys.DTO\\HRSys.DTO.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\HRSys\\Domain\\HRSys.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\projects\\HRSys\\Domain\\HRSys.Model\\HRSys.Model.csproj": {
-                "projectPath": "D:\\projects\\HRSys\\Domain\\HRSys.Model\\HRSys.Model.csproj"
+              "C:\\Users\\User\\Source\\Repos\\HRSys\\Domain\\HRSys.Model\\HRSys.Model.csproj": {
+                "projectPath": "C:\\Users\\User\\Source\\Repos\\HRSys\\Domain\\HRSys.Model\\HRSys.Model.csproj"
               }
             }
           }
@@ -70,21 +70,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\projects\\HRSys\\domain\\HRSys.Enum\\HRSys.Enum.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\HRSys\\domain\\HRSys.Enum\\HRSys.Enum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\HRSys\\domain\\HRSys.Enum\\HRSys.Enum.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\HRSys\\domain\\HRSys.Enum\\HRSys.Enum.csproj",
         "projectName": "HRSys.Enum",
-        "projectPath": "D:\\projects\\HRSys\\domain\\HRSys.Enum\\HRSys.Enum.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\HRSys\\domain\\HRSys.Enum\\obj\\",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\HRSys\\domain\\HRSys.Enum\\HRSys.Enum.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\HRSys\\domain\\HRSys.Enum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -124,21 +124,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\projects\\HRSys\\Domain\\HRSys.Model\\HRSys.Model.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\HRSys\\Domain\\HRSys.Model\\HRSys.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\HRSys\\Domain\\HRSys.Model\\HRSys.Model.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\HRSys\\Domain\\HRSys.Model\\HRSys.Model.csproj",
         "projectName": "HRSys.Model",
-        "projectPath": "D:\\projects\\HRSys\\Domain\\HRSys.Model\\HRSys.Model.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\HRSys\\Domain\\HRSys.Model\\obj\\",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\HRSys\\Domain\\HRSys.Model\\HRSys.Model.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\HRSys\\Domain\\HRSys.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -152,8 +152,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\projects\\HRSys\\Domain\\HRSys.Enum\\HRSys.Enum.csproj": {
-                "projectPath": "D:\\projects\\HRSys\\Domain\\HRSys.Enum\\HRSys.Enum.csproj"
+              "C:\\Users\\User\\Source\\Repos\\HRSys\\Domain\\HRSys.Enum\\HRSys.Enum.csproj": {
+                "projectPath": "C:\\Users\\User\\Source\\Repos\\HRSys\\Domain\\HRSys.Enum\\HRSys.Enum.csproj"
               }
             }
           }
@@ -222,21 +222,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\projects\\HRSys\\HRSys.Constants\\HRSys.Constants.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\HRSys\\HRSys.Constants\\HRSys.Constants.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\HRSys\\HRSys.Constants\\HRSys.Constants.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\HRSys\\HRSys.Constants\\HRSys.Constants.csproj",
         "projectName": "HRSys.Constants",
-        "projectPath": "D:\\projects\\HRSys\\HRSys.Constants\\HRSys.Constants.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\HRSys\\HRSys.Constants\\obj\\",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\HRSys\\HRSys.Constants\\HRSys.Constants.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\HRSys\\HRSys.Constants\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -276,21 +276,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\projects\\HRSys\\Repositories\\HRSys.Repositories\\HRSys.Repositories.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\HRSys\\Repositories\\HRSys.Repositories\\HRSys.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\projects\\HRSys\\Repositories\\HRSys.Repositories\\HRSys.Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\HRSys\\Repositories\\HRSys.Repositories\\HRSys.Repositories.csproj",
         "projectName": "HRSys.Repositories",
-        "projectPath": "D:\\projects\\HRSys\\Repositories\\HRSys.Repositories\\HRSys.Repositories.csproj",
-        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\projects\\HRSys\\Repositories\\HRSys.Repositories\\obj\\",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\HRSys\\Repositories\\HRSys.Repositories\\HRSys.Repositories.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\HRSys\\Repositories\\HRSys.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -304,17 +304,17 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\projects\\HRSys\\Domain\\HRSys.DTO\\HRSys.DTO.csproj": {
-                "projectPath": "D:\\projects\\HRSys\\Domain\\HRSys.DTO\\HRSys.DTO.csproj"
+              "C:\\Users\\User\\Source\\Repos\\HRSys\\Domain\\HRSys.DTO\\HRSys.DTO.csproj": {
+                "projectPath": "C:\\Users\\User\\Source\\Repos\\HRSys\\Domain\\HRSys.DTO\\HRSys.DTO.csproj"
               },
-              "D:\\projects\\HRSys\\domain\\HRSys.Enum\\HRSys.Enum.csproj": {
-                "projectPath": "D:\\projects\\HRSys\\domain\\HRSys.Enum\\HRSys.Enum.csproj"
+              "C:\\Users\\User\\Source\\Repos\\HRSys\\domain\\HRSys.Enum\\HRSys.Enum.csproj": {
+                "projectPath": "C:\\Users\\User\\Source\\Repos\\HRSys\\domain\\HRSys.Enum\\HRSys.Enum.csproj"
               },
-              "D:\\projects\\HRSys\\Domain\\HRSys.Model\\HRSys.Model.csproj": {
-                "projectPath": "D:\\projects\\HRSys\\Domain\\HRSys.Model\\HRSys.Model.csproj"
+              "C:\\Users\\User\\Source\\Repos\\HRSys\\Domain\\HRSys.Model\\HRSys.Model.csproj": {
+                "projectPath": "C:\\Users\\User\\Source\\Repos\\HRSys\\Domain\\HRSys.Model\\HRSys.Model.csproj"
               },
-              "D:\\projects\\HRSys\\HRSys.Constants\\HRSys.Constants.csproj": {
-                "projectPath": "D:\\projects\\HRSys\\HRSys.Constants\\HRSys.Constants.csproj"
+              "C:\\Users\\User\\Source\\Repos\\HRSys\\HRSys.Constants\\HRSys.Constants.csproj": {
+                "projectPath": "C:\\Users\\User\\Source\\Repos\\HRSys\\HRSys.Constants\\HRSys.Constants.csproj"
               }
             }
           }
@@ -357,7 +357,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

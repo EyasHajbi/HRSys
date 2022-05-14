@@ -7,3 +7,12 @@ D:\projects\HRSys\HRSys.Logger\obj\Debug\netcoreapp3.1\HRSys.Logger.AssemblyInfo
 D:\projects\HRSys\HRSys.Logger\obj\Debug\netcoreapp3.1\HRSys.Logger.csproj.CoreCompileInputs.cache
 D:\projects\HRSys\HRSys.Logger\obj\Debug\netcoreapp3.1\HRSys.Logger.dll
 D:\projects\HRSys\HRSys.Logger\obj\Debug\netcoreapp3.1\HRSys.Logger.pdb
+C:\Users\User\Source\Repos\HRSys\HRSys.Logger\bin\Debug\netcoreapp3.1\HRSys.Logger.deps.json
+C:\Users\User\Source\Repos\HRSys\HRSys.Logger\bin\Debug\netcoreapp3.1\HRSys.Logger.dll
+C:\Users\User\Source\Repos\HRSys\HRSys.Logger\bin\Debug\netcoreapp3.1\HRSys.Logger.pdb
+C:\Users\User\Source\Repos\HRSys\HRSys.Logger\obj\Debug\netcoreapp3.1\HRSys.Logger.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\HRSys\HRSys.Logger\obj\Debug\netcoreapp3.1\HRSys.Logger.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\HRSys\HRSys.Logger\obj\Debug\netcoreapp3.1\HRSys.Logger.AssemblyInfo.cs
+C:\Users\User\Source\Repos\HRSys\HRSys.Logger\obj\Debug\netcoreapp3.1\HRSys.Logger.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\HRSys\HRSys.Logger\obj\Debug\netcoreapp3.1\HRSys.Logger.dll
+C:\Users\User\Source\Repos\HRSys\HRSys.Logger\obj\Debug\netcoreapp3.1\HRSys.Logger.pdb

@@ -7,3 +7,12 @@ D:\projects\HRSys\domain\HRSys.Enum\obj\Debug\netcoreapp3.1\HRSys.Enum.AssemblyI
 D:\projects\HRSys\domain\HRSys.Enum\obj\Debug\netcoreapp3.1\HRSys.Enum.csproj.CoreCompileInputs.cache
 D:\projects\HRSys\domain\HRSys.Enum\obj\Debug\netcoreapp3.1\HRSys.Enum.dll
 D:\projects\HRSys\domain\HRSys.Enum\obj\Debug\netcoreapp3.1\HRSys.Enum.pdb
+C:\Users\User\Source\Repos\HRSys\domain\HRSys.Enum\bin\Debug\netcoreapp3.1\HRSys.Enum.deps.json
+C:\Users\User\Source\Repos\HRSys\domain\HRSys.Enum\bin\Debug\netcoreapp3.1\HRSys.Enum.dll
+C:\Users\User\Source\Repos\HRSys\domain\HRSys.Enum\bin\Debug\netcoreapp3.1\HRSys.Enum.pdb
+C:\Users\User\Source\Repos\HRSys\domain\HRSys.Enum\obj\Debug\netcoreapp3.1\HRSys.Enum.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\HRSys\domain\HRSys.Enum\obj\Debug\netcoreapp3.1\HRSys.Enum.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\HRSys\domain\HRSys.Enum\obj\Debug\netcoreapp3.1\HRSys.Enum.AssemblyInfo.cs
+C:\Users\User\Source\Repos\HRSys\domain\HRSys.Enum\obj\Debug\netcoreapp3.1\HRSys.Enum.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\HRSys\domain\HRSys.Enum\obj\Debug\netcoreapp3.1\HRSys.Enum.dll
+C:\Users\User\Source\Repos\HRSys\domain\HRSys.Enum\obj\Debug\netcoreapp3.1\HRSys.Enum.pdb

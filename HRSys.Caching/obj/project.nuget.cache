@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "nlf5+MMreZy2t13kOcIDu2e2KODxSRX/QjGfKg+EcgLxcSTxoUsMP0C8ObfK+poC5J6dGGN36m192kJ5+NBGLw==",
+  "dgSpecHash": "Rb94iaa0k0z6+OkgHXChyVFtkHBtqFH83/rF93+e8pxgM7go+DBO3rmJu8/+gqTzUp7fzVOV6xe499StwPFQVw==",
   "success": true,
-  "projectFilePath": "D:\\projects\\HRSys\\HRSys.Caching\\HRSys.Caching.csproj",
+  "projectFilePath": "C:\\Users\\User\\Source\\Repos\\HRSys\\HRSys.Caching\\HRSys.Caching.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.1\\microsoft.extensions.caching.abstractions.3.1.1.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.1\\microsoft.extensions.primitives.3.1.1.nupkg.sha512"
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.1\\microsoft.extensions.caching.abstractions.3.1.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.1\\microsoft.extensions.primitives.3.1.1.nupkg.sha512"
   ],
   "logs": []
 }

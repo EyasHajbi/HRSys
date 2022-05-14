@@ -11,3 +11,15 @@ D:\projects\HRSys\HRSys.Shared\obj\Debug\netcoreapp3.1\HRSys.Shared.csproj.CoreC
 D:\projects\HRSys\HRSys.Shared\obj\Debug\netcoreapp3.1\HRSys.Shared.csproj.CopyComplete
 D:\projects\HRSys\HRSys.Shared\obj\Debug\netcoreapp3.1\HRSys.Shared.dll
 D:\projects\HRSys\HRSys.Shared\obj\Debug\netcoreapp3.1\HRSys.Shared.pdb
+C:\Users\User\Source\Repos\HRSys\HRSys.Shared\bin\Debug\netcoreapp3.1\HRSys.Shared.deps.json
+C:\Users\User\Source\Repos\HRSys\HRSys.Shared\bin\Debug\netcoreapp3.1\HRSys.Shared.dll
+C:\Users\User\Source\Repos\HRSys\HRSys.Shared\bin\Debug\netcoreapp3.1\HRSys.Shared.pdb
+C:\Users\User\Source\Repos\HRSys\HRSys.Shared\bin\Debug\netcoreapp3.1\HRSys.Enum.dll
+C:\Users\User\Source\Repos\HRSys\HRSys.Shared\bin\Debug\netcoreapp3.1\HRSys.Enum.pdb
+C:\Users\User\Source\Repos\HRSys\HRSys.Shared\obj\Debug\netcoreapp3.1\HRSys.Shared.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\HRSys\HRSys.Shared\obj\Debug\netcoreapp3.1\HRSys.Shared.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\HRSys\HRSys.Shared\obj\Debug\netcoreapp3.1\HRSys.Shared.AssemblyInfo.cs
+C:\Users\User\Source\Repos\HRSys\HRSys.Shared\obj\Debug\netcoreapp3.1\HRSys.Shared.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\HRSys\HRSys.Shared\obj\Debug\netcoreapp3.1\HRSys.Shared.csproj.CopyComplete
+C:\Users\User\Source\Repos\HRSys\HRSys.Shared\obj\Debug\netcoreapp3.1\HRSys.Shared.dll
+C:\Users\User\Source\Repos\HRSys\HRSys.Shared\obj\Debug\netcoreapp3.1\HRSys.Shared.pdb

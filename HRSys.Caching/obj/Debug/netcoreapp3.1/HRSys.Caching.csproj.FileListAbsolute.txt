@@ -8,3 +8,12 @@ D:\projects\HRSys\HRSys.Caching\obj\Debug\netcoreapp3.1\HRSys.Caching.csproj.Cor
 D:\projects\HRSys\HRSys.Caching\obj\Debug\netcoreapp3.1\HRSys.Caching.dll
 D:\projects\HRSys\HRSys.Caching\obj\Debug\netcoreapp3.1\HRSys.Caching.pdb
 D:\projects\HRSys\HRSys.Caching\obj\Debug\netcoreapp3.1\HRSys.Caching.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\HRSys\HRSys.Caching\bin\Debug\netcoreapp3.1\HRSys.Caching.deps.json
+C:\Users\User\Source\Repos\HRSys\HRSys.Caching\bin\Debug\netcoreapp3.1\HRSys.Caching.dll
+C:\Users\User\Source\Repos\HRSys\HRSys.Caching\bin\Debug\netcoreapp3.1\HRSys.Caching.pdb
+C:\Users\User\Source\Repos\HRSys\HRSys.Caching\obj\Debug\netcoreapp3.1\HRSys.Caching.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\HRSys\HRSys.Caching\obj\Debug\netcoreapp3.1\HRSys.Caching.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\HRSys\HRSys.Caching\obj\Debug\netcoreapp3.1\HRSys.Caching.AssemblyInfo.cs
+C:\Users\User\Source\Repos\HRSys\HRSys.Caching\obj\Debug\netcoreapp3.1\HRSys.Caching.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\HRSys\HRSys.Caching\obj\Debug\netcoreapp3.1\HRSys.Caching.dll
+C:\Users\User\Source\Repos\HRSys\HRSys.Caching\obj\Debug\netcoreapp3.1\HRSys.Caching.pdb
