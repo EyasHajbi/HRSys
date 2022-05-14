@@ -1,0 +1,9 @@
+D:\projects\HRSys\HRSys.Logger\bin\Debug\netcoreapp3.1\HRSys.Logger.deps.json
+D:\projects\HRSys\HRSys.Logger\bin\Debug\netcoreapp3.1\HRSys.Logger.dll
+D:\projects\HRSys\HRSys.Logger\bin\Debug\netcoreapp3.1\HRSys.Logger.pdb
+D:\projects\HRSys\HRSys.Logger\obj\Debug\netcoreapp3.1\HRSys.Logger.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\HRSys\HRSys.Logger\obj\Debug\netcoreapp3.1\HRSys.Logger.AssemblyInfoInputs.cache
+D:\projects\HRSys\HRSys.Logger\obj\Debug\netcoreapp3.1\HRSys.Logger.AssemblyInfo.cs
+D:\projects\HRSys\HRSys.Logger\obj\Debug\netcoreapp3.1\HRSys.Logger.csproj.CoreCompileInputs.cache
+D:\projects\HRSys\HRSys.Logger\obj\Debug\netcoreapp3.1\HRSys.Logger.dll
+D:\projects\HRSys\HRSys.Logger\obj\Debug\netcoreapp3.1\HRSys.Logger.pdb

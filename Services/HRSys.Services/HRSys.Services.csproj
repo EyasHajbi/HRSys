@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Aspose.PDF" Version="20.3.0" />
+    <PackageReference Include="Aspose.Words" Version="20.3.0" />
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+    <PackageReference Include="EPPlus" Version="4.5.3.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Hosting" Version="2.2.7" />
+    <PackageReference Include="Microsoft.AspNetCore.Hosting.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Nancy" Version="2.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="System.IO.Packaging" Version="4.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Domain\HRSys.DTO\HRSys.DTO.csproj" />
+    <ProjectReference Include="..\..\domain\HRSys.Enum\HRSys.Enum.csproj" />
+    <ProjectReference Include="..\..\HRSys.Caching\HRSys.Caching.csproj" />
+    <ProjectReference Include="..\..\HRSys.Logger\HRSys.Logger.csproj" />
+    <ProjectReference Include="..\..\HRSys.Shared\HRSys.Shared.csproj" />
+    <ProjectReference Include="..\..\Domain\HRSys.Model\HRSys.Model.csproj" />
+    <ProjectReference Include="..\..\Repositories\HRSys.Repositories\HRSys.Repositories.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Word">
+      <HintPath>C:\Windows\assembly\GAC_MSIL\Microsoft.Office.Interop.Word\15.0.0.0__71e9bce111e9429c\Microsoft.Office.Interop.Word.dll</HintPath>
+      <EmbedInteropTypes>true</EmbedInteropTypes>
+    </Reference>
+  </ItemGroup>
+
+</Project>

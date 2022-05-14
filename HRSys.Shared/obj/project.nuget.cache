@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "afj6uIOtKVgeTginyrfjlRosfjC4Sr6RUlb1A2xt5MgA4P0ID9x14WqVy+7m4wXQUBpiUd4bhKOhT8q7qJcWiA==",
+  "success": true,
+  "projectFilePath": "D:\\projects\\HRSys\\HRSys.Shared\\HRSys.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

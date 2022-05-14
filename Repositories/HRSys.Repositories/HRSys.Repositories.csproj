@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.0" />
+    <PackageReference Include="PagedList" Version="1.17.0" />
+    <PackageReference Include="PagedList.Mvc" Version="4.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Domain\HRSys.DTO\HRSys.DTO.csproj" />
+    <ProjectReference Include="..\..\domain\HRSys.Enum\HRSys.Enum.csproj" />
+    <ProjectReference Include="..\..\Domain\HRSys.Model\HRSys.Model.csproj" />
+    <ProjectReference Include="..\..\HRSys.Constants\HRSys.Constants.csproj" />
+  </ItemGroup>
+
+</Project>

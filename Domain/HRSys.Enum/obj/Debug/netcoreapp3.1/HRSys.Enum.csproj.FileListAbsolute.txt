@@ -1,0 +1,9 @@
+D:\projects\HRSys\domain\HRSys.Enum\bin\Debug\netcoreapp3.1\HRSys.Enum.deps.json
+D:\projects\HRSys\domain\HRSys.Enum\bin\Debug\netcoreapp3.1\HRSys.Enum.dll
+D:\projects\HRSys\domain\HRSys.Enum\bin\Debug\netcoreapp3.1\HRSys.Enum.pdb
+D:\projects\HRSys\domain\HRSys.Enum\obj\Debug\netcoreapp3.1\HRSys.Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\HRSys\domain\HRSys.Enum\obj\Debug\netcoreapp3.1\HRSys.Enum.AssemblyInfoInputs.cache
+D:\projects\HRSys\domain\HRSys.Enum\obj\Debug\netcoreapp3.1\HRSys.Enum.AssemblyInfo.cs
+D:\projects\HRSys\domain\HRSys.Enum\obj\Debug\netcoreapp3.1\HRSys.Enum.csproj.CoreCompileInputs.cache
+D:\projects\HRSys\domain\HRSys.Enum\obj\Debug\netcoreapp3.1\HRSys.Enum.dll
+D:\projects\HRSys\domain\HRSys.Enum\obj\Debug\netcoreapp3.1\HRSys.Enum.pdb

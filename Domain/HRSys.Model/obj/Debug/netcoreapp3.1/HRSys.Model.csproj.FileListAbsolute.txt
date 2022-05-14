@@ -1,0 +1,16 @@
+D:\projects\HRSys\Domain\HRSys.Model\bin\Debug\netcoreapp3.1\HRSys.Model.deps.json
+D:\projects\HRSys\Domain\HRSys.Model\bin\Debug\netcoreapp3.1\HRSys.Model.runtimeconfig.json
+D:\projects\HRSys\Domain\HRSys.Model\bin\Debug\netcoreapp3.1\HRSys.Model.runtimeconfig.dev.json
+D:\projects\HRSys\Domain\HRSys.Model\bin\Debug\netcoreapp3.1\HRSys.Model.dll
+D:\projects\HRSys\Domain\HRSys.Model\bin\Debug\netcoreapp3.1\HRSys.Model.pdb
+D:\projects\HRSys\Domain\HRSys.Model\bin\Debug\netcoreapp3.1\HRSys.Enum.dll
+D:\projects\HRSys\Domain\HRSys.Model\bin\Debug\netcoreapp3.1\HRSys.Enum.pdb
+D:\projects\HRSys\Domain\HRSys.Model\obj\Debug\netcoreapp3.1\HRSys.Model.csproj.AssemblyReference.cache
+D:\projects\HRSys\Domain\HRSys.Model\obj\Debug\netcoreapp3.1\HRSys.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\HRSys\Domain\HRSys.Model\obj\Debug\netcoreapp3.1\HRSys.Model.AssemblyInfoInputs.cache
+D:\projects\HRSys\Domain\HRSys.Model\obj\Debug\netcoreapp3.1\HRSys.Model.AssemblyInfo.cs
+D:\projects\HRSys\Domain\HRSys.Model\obj\Debug\netcoreapp3.1\HRSys.Model.csproj.CoreCompileInputs.cache
+D:\projects\HRSys\Domain\HRSys.Model\obj\Debug\netcoreapp3.1\HRSys.Model.csproj.CopyComplete
+D:\projects\HRSys\Domain\HRSys.Model\obj\Debug\netcoreapp3.1\HRSys.Model.dll
+D:\projects\HRSys\Domain\HRSys.Model\obj\Debug\netcoreapp3.1\HRSys.Model.pdb
+D:\projects\HRSys\Domain\HRSys.Model\obj\Debug\netcoreapp3.1\HRSys.Model.genruntimeconfig.cache

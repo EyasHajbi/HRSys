@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "dT115scn+bsBqw2p843T6fvktB2KVwsoqPaBiNzT3jJTFjpK+K3fAQ2HEJVy3aix9SaEUgFEOJJX/fK3KCsFiA==",
+  "success": true,
+  "projectFilePath": "D:\\projects\\HRSys\\HRSys.Localizations\\HRSys.Localizations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.0\\microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.localization\\3.1.0\\microsoft.extensions.localization.3.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\3.1.0\\microsoft.extensions.localization.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.0\\microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.options\\3.1.0\\microsoft.extensions.options.3.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.0\\microsoft.extensions.primitives.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

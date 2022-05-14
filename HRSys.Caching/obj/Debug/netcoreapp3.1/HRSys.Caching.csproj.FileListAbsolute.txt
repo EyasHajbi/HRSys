@@ -1,0 +1,10 @@
+D:\projects\HRSys\HRSys.Caching\bin\Debug\netcoreapp3.1\HRSys.Caching.deps.json
+D:\projects\HRSys\HRSys.Caching\bin\Debug\netcoreapp3.1\HRSys.Caching.dll
+D:\projects\HRSys\HRSys.Caching\bin\Debug\netcoreapp3.1\HRSys.Caching.pdb
+D:\projects\HRSys\HRSys.Caching\obj\Debug\netcoreapp3.1\HRSys.Caching.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\HRSys\HRSys.Caching\obj\Debug\netcoreapp3.1\HRSys.Caching.AssemblyInfoInputs.cache
+D:\projects\HRSys\HRSys.Caching\obj\Debug\netcoreapp3.1\HRSys.Caching.AssemblyInfo.cs
+D:\projects\HRSys\HRSys.Caching\obj\Debug\netcoreapp3.1\HRSys.Caching.csproj.CoreCompileInputs.cache
+D:\projects\HRSys\HRSys.Caching\obj\Debug\netcoreapp3.1\HRSys.Caching.dll
+D:\projects\HRSys\HRSys.Caching\obj\Debug\netcoreapp3.1\HRSys.Caching.pdb
+D:\projects\HRSys\HRSys.Caching\obj\Debug\netcoreapp3.1\HRSys.Caching.csproj.AssemblyReference.cache
